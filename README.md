@@ -3,7 +3,7 @@
 Course materials are contained in this repository
 
 
-## Python CET Share
+## Python CET Share (if you are not able use the meeting chat to share code or ask question)
 https://bit.ly/py-share
 
 ## Python (download version specific to your OS) 
